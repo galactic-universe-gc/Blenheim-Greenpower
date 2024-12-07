@@ -1,41 +1,69 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
-
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
 <url>
-  <loc>https://bhs-greenpower.co.uk/</loc>
-  <lastmod>2023-03-11T21:38:33+00:00</lastmod>
-  <priority>1.00</priority>
+<loc>https://bhs-greenpower.co.uk/</loc>
+<lastmod>2024-12-07T17:45:08+00:00</lastmod>
+<priority>1.00</priority>
 </url>
 <url>
-  <loc>https://bhs-greenpower.co.uk/index.html</loc>
-  <lastmod>2023-03-11T21:38:33+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://bhs-greenpower.co.uk/index.html</loc>
+<lastmod>2024-12-07T17:45:08+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bhs-greenpower.co.uk/aboutus.html</loc>
-  <lastmod>2023-03-11T21:38:33+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://bhs-greenpower.co.uk/aboutus.html</loc>
+<lastmod>2024-12-07T17:45:08+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bhs-greenpower.co.uk/theteam.html</loc>
-  <lastmod>2023-03-11T21:38:33+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://bhs-greenpower.co.uk/theteam.html</loc>
+<lastmod>2024-12-07T17:45:08+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bhs-greenpower.co.uk/news.html</loc>
-  <lastmod>2023-03-11T21:38:33+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://bhs-greenpower.co.uk/news.html</loc>
+<lastmod>2024-12-07T17:45:08+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bhs-greenpower.co.uk/dunsfold2022news.html</loc>
-  <lastmod>2023-03-11T21:38:33+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://bhs-greenpower.co.uk/blog.html</loc>
+<lastmod>2024-12-07T17:45:08+00:00</lastmod>
+<priority>0.80</priority>
 </url>
-
-
+<url>
+<loc>https://bhs-greenpower.co.uk/resources.html</loc>
+<lastmod>2024-12-07T17:45:08+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://bhs-greenpower.co.uk/dunsfold2022news.html</loc>
+<lastmod>2024-12-07T17:45:08+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://bhs-greenpower.co.uk/LICENSE.txt</loc>
+<lastmod>2024-12-07T17:45:08+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://bhs-greenpower.co.uk/sess061224.html</loc>
+<lastmod>2024-12-07T17:45:08+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://bhs-greenpower.co.uk/kitlist.html</loc>
+<lastmod>2024-12-07T17:45:08+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://bhs-greenpower.co.uk/racedayguide.html</loc>
+<lastmod>2024-12-07T17:45:08+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://bhs-greenpower.co.uk/drivingbriefcard.html</loc>
+<lastmod>2024-12-07T17:45:08+00:00</lastmod>
+<priority>0.64</priority>
+</url>
 </urlset>
